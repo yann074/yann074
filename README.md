@@ -24,7 +24,7 @@ No meu tempo livre, gosto de participar de comunidades de programação, onde ap
 
  ## 😎 Curiosidades sobre Mim
 
-- 🎸 Sou apaixonado(a) por futebol e, sempre que possível, assito aos jogos do meu time. 
+- ⚽ Sou apaixonado(a) por futebol e, sempre que possível, assito aos jogos do meu time. 
 - 💡 Comecei a programar em **2022** e, desde então, venho me desafiando e aprendendo coisas novas.   
 - 🤗 Acredito no poder da colaboração e estou sempre disposto(a) a ajudar quem busca evoluir na área de tecnologia.   
 - 🌐 Tenho experiência em diversos projetos, desde servidores de jogos até aplicações web, o que me proporcionou uma visão ampla do desenvolvimento.   
