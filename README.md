@@ -17,10 +17,10 @@ No meu tempo livre, gosto de participar de comunidades de programação, onde ap
 
 - 👤 **Nome:** Yann Smith.  
 - 🎂 **Idade:** 19  
-- 📍 **Localização:** Feira de Santana - Bahia, Brasil
-- 💻 **Stack:** PHP, Laravel, React, Vue.js   
-- 📚 **Aprendizado Atual:** Cloud, Python 
-- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas, cursando
+- 📍 **Localização:** Salvador - Bahia, Brasil
+- 💻 **Stack:** PHP, Laravel, React, TypeScript   
+- 📚 **Aprendizado Atual:** Cloud 
+- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas
 
  ## 😎 Curiosidades sobre Mim
 
